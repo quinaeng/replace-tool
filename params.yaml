@@ -1,0 +1,2 @@
+PROXY_IMAGE: ubuntu/squid:latest
+WEB_IMAGE: nginx:latest
